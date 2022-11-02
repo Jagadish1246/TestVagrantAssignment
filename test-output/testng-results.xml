@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-02T20:54:10 IST" name="Default suite" finished-at="2022-11-02T20:54:11 IST" duration-ms="753">
+    <groups>
+    </groups>
+    <test started-at="2022-11-02T20:54:10 IST" name="Default test" finished-at="2022-11-02T20:54:11 IST" duration-ms="753">
+      <class name="TestVagrantAssignment.ValidateTestCases">
+        <test-method is-config="true" signature="getplayersData()[pri:0, instance:TestVagrantAssignment.ValidateTestCases@59505b48]" started-at="2022-11-02T20:54:10 IST" name="getplayersData" finished-at="2022-11-02T20:54:10 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getplayersData -->
+        <test-method signature="validateForigenPlyaers()[pri:1, instance:TestVagrantAssignment.ValidateTestCases@59505b48]" started-at="2022-11-02T20:54:10 IST" name="validateForigenPlyaers" finished-at="2022-11-02T20:54:10 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForigenPlyaers -->
+        <test-method signature="validateWiketKiper()[pri:2, instance:TestVagrantAssignment.ValidateTestCases@59505b48]" started-at="2022-11-02T20:54:10 IST" name="validateWiketKiper" finished-at="2022-11-02T20:54:10 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateWiketKiper -->
+      </class> <!-- TestVagrantAssignment.ValidateTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
